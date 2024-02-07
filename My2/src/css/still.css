@@ -1,0 +1,120 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #1c2534;
+    width: calc(100% - 100px);
+    margin: 20px 160px;
+    border-left: 1px solid #a7d7f9;
+    border-radius: 2px;
+    display: block;
+    padding: 50px;
+}
+.penal{
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: inherit;
+    position: absolute;
+    top: 0;
+    width: 150px;
+    left: 0;
+}
+
+h1{
+    font-family: italic;
+    font-size: 32px;
+}
+h2{
+    font-style: italic;
+    font-size: 24px;
+    border-bottom:1px solid #999; 
+}
+h3{
+    font-weight: bold;
+    font-size: 22px;
+}
+p{
+    text-indent: 25px;
+    line-height: 20.5px;
+    font-weight: normal;
+}
+.pascalka{
+    margin-top: 9000px;
+}
+.infobox{
+    border: 1px solid #a2a9b1;
+    background: #f8f9fa;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    padding: 0.4em;
+    float: right;
+    clear: right;
+    font-size: 90%;
+    width: 23em;
+    vertical-align: middle;
+    text-align: left;
+    line-height: 1.5em;
+    border-collapse: separate;
+    border-spacing: 2px;
+    
+
+}
+.infobox img{
+    width: 100%;
+    height: auto;
+    
+}
+.infobox p{
+    text-indent: 0px;
+    margin: 0px;
+    text-align: center;
+    
+}
+.infobox .lo{
+   
+   float: left;
+   text-align: start;
+    width: 80px;
+   margin: 0px 70px 0px 0px;
+
+}
+
+.infobox  .ly{
+    
+    text-align: start;
+     margin-top: 10px;
+ 
+}
+ .loly{
+    font-size: 14px;
+    padding: 0px 5px;
+    text-align: start;
+}
+comtent{
+    margin: 20px;
+}
+
+.description{
+   border: 1px solid #999;
+    border-radius: 2px;
+    width: 600px;
+    height: 60%;
+    background-color: #f8f9fa;
+}
+.description h3{
+    text-align: center;
+}
+.foto {
+    float: right;
+    border:1px solid #999;
+    border-radius: 2px;
+    margin: 0px 20px 20px;
+    padding: 3px;
+}
+.foto p{
+    font-size: 14px;
+    text-align: start;
+    text-indent:0px;
+    width: 220px;
+}
